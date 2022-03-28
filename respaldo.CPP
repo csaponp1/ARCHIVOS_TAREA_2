@@ -1,3 +1,9 @@
+/*
+UNIVERSIDAD MARIANO GALVEZ
+INGENIERIA EN SISTEMAS
+NOMBRE: CHRISTIAN FERNANDO SAPON PEREZ
+CARNET: 1290-21-16654
+*/
 #include <iostream>
 #include <stdio.h>  
 #include <string.h> 
